@@ -4,13 +4,13 @@
 - [Codepen](https://codepen.io/)
 - [Ray.so](https://ray.so) Turn code into images
 
-# Diagrams
+## Diagrams
 - [Roadmap.sh](https://roadmap.sh)
 
-# Documentations
+## Documentations
 - [Devdocs](https://devdocs.io/)
 
-# Icons, images bank
+## Icons, images bank
 - [Iconstore](https://iconstore.co) (can use in personal, commercial projects, modify icons)
 
 ## Poll
